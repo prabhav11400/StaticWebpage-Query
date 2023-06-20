@@ -180,7 +180,6 @@ mysqli_close($link);
 
 
 
-
 // my assignment will be(wrt home): /opt/lampp/htdocs
 firstly go to      home pr hain to           cd ./opt/lampp
 then          sudo service mysql stop
